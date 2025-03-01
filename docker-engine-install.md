@@ -26,14 +26,14 @@ echo \
 ````
 ![alt text](pictures/repo.PNG)
 
-### Etapa 4: Instalação do docker engine ###
+### Etapa 4: Instalação do docker engine ##
 
 ````
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ````
 ![alt text](pictures/install.PNG)
-### Etapa Final: Verique a versão do docker engine ###
+### Etapa Final: Verique a versão do docker engine ##
 
 ````
 docker --version
